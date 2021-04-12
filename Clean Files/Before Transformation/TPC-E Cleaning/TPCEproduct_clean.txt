@@ -1,0 +1,101 @@
+DESC,ProdID,Price1,Price2,ProdTypeID,UnitCost,SupplierID
+Enumerator Polishing Equipment,1,164.97,142.53,3,135.4,8
+Tailor Jacks,2,509.78,429.74,15,399.66,3
+Sortie Covers,3,248.21,213.21,13,206.81,9
+Embodying Cleaning Supplies,4,250.91,213.52,5,207.11,4
+Automobiles Fillers,5,283.83,227.63,12,218.52,8
+Planetesimal Manufacturing Equipment,6,347.28,307,2,285.51,6
+Commendation Fillers,7,436.33,380.04,12,364.84,9
+Septembers Manufacturing Equipment,8,584.33,522.98,2,517.75,9
+Millimeters Flushing Chemicals,9,295.56,251.82,10,241.75,7
+Defeated Tray Supplies,10,559.74,476.9,8,448.29,8
+Sulkiness Covers,11,354.3,289.82,13,272.43,5
+Travelings Photo Chemicals,12,274.39,242.01,9,225.07,8
+Coward Covers,13,429.79,348.99,13,328.05,9
+Engle Photo Chemicals,14,429.94,346.1,9,342.64,3
+Disposed Fillers,15,158.84,138.03,12,132.51,9
+Enhanced Covers,16,460.96,384.44,13,361.37,5
+Optima Cleaning Supplies,17,288.41,255.53,5,242.75,8
+Miniaturizing Manufacturing Equipment,18,456.24,379.59,2,353.02,8
+Hesitating Jacks,19,124.46,100.07,15,96.07,6
+Flake Photo Equipment,20,232.26,204.39,1,194.17,2
+Denigrating Polishing Equipment,21,565.95,454.46,3,427.19,6
+Whippers Covers,22,488.61,410.43,13,389.91,1
+Decided Tray Supplies,23,233.3,202.27,8,198.22,5
+Bandage Manufacturing Equipment,24,298,267.01,2,253.66,2
+Chalmers Polishing Equipment,25,289.17,242.61,3,223.2,8
+Subclasses Polishing Equipment,26,282.51,239,3,236.61,10
+Pinnings Plastic Supplies,27,337.17,302.44,7,287.32,10
+Wonderingly Covers,28,547.21,467.32,13,453.3,7
+Bluest Fillers,29,507.35,428.2,12,398.23,3
+Detectives Jacks,30,283.32,248.47,15,236.05,1
+Simplifier Tray Supplies,31,408.81,349.12,8,328.17,10
+Chartable Photo Equipment,32,410.17,347.41,1,312.67,3
+Consumable Tray Supplies,33,395.7,347.42,8,337,6
+Sailors Manufacturing Equipment,34,340.48,290.43,2,278.81,5
+Chromium Photo Equipment,35,565.5,457.49,1,425.47,9
+Bomber Photo Equipment,36,461.34,400.44,1,380.42,8
+Concentrators Polishing Equipment,37,584.57,524.94,3,482.94,4
+Syntax Polishing Equipment,38,226.72,190.9,3,177.54,5
+Overlays Plastic Supplies,39,301.08,254.41,7,241.69,7
+Insensitivity Manufacturing Equipment,40,200.71,180.44,2,169.61,6
+Consideration Tray Supplies,41,172.56,146.85,8,139.51,8
+Carelessly Freezing Chemicals,42,559.67,467.88,11,425.77,5
+Blazed Covers,43,495,416.79,13,404.29,7
+Birthdays Manufacturing Equipment,44,196.56,173.17,2,161.05,6
+Slacking Jacks,45,495.04,399.99,15,387.99,5
+Distantly Paper Supplies,46,518.49,436.05,6,418.61,6
+Significants Freezing Chemicals,47,141.55,113.24,11,104.18,5
+Patriarchal Cleaning Supplies,48,351.54,284.75,5,264.82,2
+Visage Flushing Chemicals,49,567.75,507.57,10,466.96,7
+Restarts Paper Supplies,50,524.38,448.34,6,425.92,1
+Reflection Lifts,51,497.85,447.57,14,438.62,9
+Identical Freezing Chemicals,52,578.07,465.92,11,447.28,2
+Ruffle Freezing Chemicals,53,476.38,394.92,11,379.12,4
+Honeymoon Photo Chemicals,54,326.13,292.21,9,271.76,7
+Bumblers Plastic Supplies,55,545.31,466.24,7,447.59,6
+Allis Polishing Equipment,56,201.77,176.35,3,160.48,8
+South Tray Supplies,57,241.3,205.1,8,203.05,2
+Characterization Plastic Supplies,58,231.68,185.58,7,168.88,9
+Tonnage Plastic Supplies,59,368.75,315.65,7,309.34,7
+Habitually Manufacturing Equipment,60,509.3,419.15,2,394,3
+Courthouses Manufacturing Equipment,61,285.62,243.63,2,231.45,6
+Substances Flushing Chemicals,62,507.34,409.93,10,397.63,3
+Weeks Polishing Equipment,63,198.83,174.18,3,168.95,7
+Berwick Fillers,64,583.85,487.51,12,463.13,5
+Extinguisher Manufacturing Equipment,65,120.39,98.36,2,90.49,2
+Exemplar Freezing Chemicals,66,198.4,160.9,11,152.85,9
+Occlusion Manufacturing Equipment,67,199.88,177.29,2,164.88,7
+Loaves Polishing Equipment,68,425.59,361.33,3,354.1,7
+Hits Tray Supplies,69,439.53,359.1,8,341.14,3
+Escape Manufacturing Equipment,70,584.38,523.6,2,507.89,3
+Simulations Photo Equipment,71,318.38,255.66,1,245.43,3
+Anthem Tray Supplies,72,134.92,112.39,8,109.02,9
+Cosgrove Jacks,73,298.87,267.79,15,254.4,7
+Flanker Fillers,74,271.44,236.15,12,219.62,5
+Deferrable Freezing Chemicals,75,145.03,124.44,11,113.24,2
+Scrounge Jacks,76,301.58,251.22,15,248.71,5
+Vastest Photo Equipment,77,498.08,442.3,1,420.19,2
+Measured Photo Chemicals,78,318.06,270.67,9,254.43,4
+Siena Plastic Supplies,79,155.03,136.43,7,132.34,3
+Temporally Plastic Supplies,80,477.53,408.29,7,371.54,9
+Palm Polishing Equipment,81,122.39,105.38,3,103.27,3
+Numerals Covers,82,102.87,88.98,13,83.64,2
+Horses Lifts,83,487.3,402.51,14,366.28,10
+Unjust Paper Supplies,84,222.48,182.21,6,176.74,7
+Disallow Manufacturing Equipment,85,165.24,145.91,2,144.45,5
+Soya Cleaning Supplies,86,406.93,345.89,5,345.89,1
+Suing Manufacturing Equipment,87,482.16,426.71,2,401.11,6
+Vestiges Tray Supplies,88,231.45,192.1,8,186.34,10
+Travel Paper Supplies,89,129.85,108.81,6,103.37,10
+Curiouser Cleaning Supplies,90,419.36,364.42,5,338.91,5
+Scribble Plastic Supplies,91,492.4,405.74,7,397.63,1
+Behind Tray Supplies,92,166.65,138.99,8,129.26,7
+Bellowing Polishing Equipment,93,502.57,451.31,3,446.8,6
+Beliefs Freezing Chemicals,94,566.64,483.91,11,454.88,4
+Duplicator Polishing Equipment,95,544.28,465.36,3,432.78,7
+Drafty Cleaning Supplies,96,107.13,92.67,5,88.96,3
+Stickiest Paper Supplies,97,575.92,502.78,6,467.59,3
+Barrels Flushing Chemicals,98,135.1,116.59,10,108.43,1
+Richards Freezing Chemicals,99,529.35,475.36,11,470.61,5
+Pervasively Manufacturing Equipment,100,374.14,334.86,2,308.07,8

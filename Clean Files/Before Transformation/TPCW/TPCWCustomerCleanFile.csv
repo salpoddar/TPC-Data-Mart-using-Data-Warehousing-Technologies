@@ -1,0 +1,41 @@
+CustomerID,CustomerName,CustomerTypeID,CustomerAddr1,CustomerAddr2,CustomerState,CustomerCity,CustomerZip,Division
+39,Ashton Washington,E,Suite 999,7726 Donec Road,MA,Vallejo,94591,3
+4,Austin Burns,E,Suite 999,2041 Venenatis Avenue,DC,Alexandria,34440,3
+6,Austin Ferrell,C,Suite 999,8666 Justo Road,PA,Pullman,55979,3
+11,Beasley,C,Suite 999,7800 Nec Road,MA,Idabel,57132,3
+1,Beverly Equipment,S,Suite 999,7581 Quisque Street,HI,Bloomington,88440,3
+38,Blevins,C,Suite 999,2571 Donec Avenue,SD,Winooski,65512,3
+10,Byron Chemicals,C,Suite 999,6831 Donec Street,IN,Salt Lake City,41050,3
+17,Camera Platforms International Incorporated,S,Suite 999,5347 Deposed Street,TX,Houston,77244,3
+24,Chantale-Huffman Incorporated,S,Suite 999,2761 Infinity Street,NH,New Iberia,65327,3
+36,Charity Incorporated,E,Suite 999,3254 Hendrerit Avenue,WY,Effingham,27502,3
+23,Chemfix Technologies Incorporated,S,Suite 50,11533 Wonderingly Drive,MO,Pasadena Hills,63121,3
+2,Clio-Hutchinson,S,Suite 999,1257 Ac Avenue,SC,Butler,82126,3
+18,Cross,F,Suite 999,6605 Rhoncus Avenue,NH,Hopkinsville,25620,3
+27,Emerson Electric Co,E,Suite 999,1792 Squash Drive,TX,South Texarkana,75501,3
+35,Ferdinand Supply,F,Suite 999,6979 Quis Street,DE,Nome,58359,3
+19,Firstfed America Bancorp Incorporated,E,Suite 999,5656 Settler Street,TX,Ward Prairie,75840,3
+31,Fuentes Incorporated,F,Suite 999,7063 Phasellus Road,WV,Compton,68519,3
+25,Garrison Works,E,Suite 999,3801 Lacus Road,WV,Reno,46307,3
+29,Genevieve Day,E,Suite 999,284-1916 Ac Street,IN,Troy,68914,3
+40,Gte Corporation,S,Dept #532,7196 Heaver Lane,FL,Winter Garden,34777,3
+7,Hop Adams,E,Suite 999,704 Nisl Road,NH,Sun Valley,84458,3
+33,India-Stuart,F,Suite 999,1973 At Avenue,CA,Cudahy,76482,3
+16,Martinez Disposables,F,Suite 999,5331 Nunc Avenue,DC,Tucson,79991,3
+32,Mendoza Chem,C,Suite 999,4826 Urna Avenue,MD,Everett,87048,3
+9,Meridian Resources Corporation,C,Dept #805,1977 Symbiotic Turnpike,MA,Fall River,02724,3
+15,Merritt Long,C,Suite 30,072 Cursus Avenue,WY,West Haven,83709,3
+8,Mullins Incorporated,S,Suite 999,4009 Ornare Road,NE,Birmingham,59509,3
+28,Oleg Jones,C,Suite 999,5491 Nec Road,NE,Moraga,82394,3
+20,Price Rivers,S,Suite 999,2853 Aenean Avenue,MS,Sault Ste. Marie,59316,3
+12,Processing Equipment Corporation,C,Suite 999,29843 Klingon Road,IL,Naperville,60563,3
+34,Pulitzer Publishing Company,S,Suite 999,126 Pathological Circle,NY,Woodbury,11797,3
+37,Ronan French,E,Suite 999,8773 Feugiat Road,WA,Gary,17387,3
+26,Ruby Petty,S,Suite 999,3142 Congue Street,IL,Chicago,76404,3
+5,Saint Andrews Golf Corporation,F,Suite 999,8068 Substances Street,Fl,North Miami,33261,3
+22,Santiago Processing,S,Suite 999,4565 Tempor Avenue,AK,Hanahan,15743,3
+21,Santos LLC,C,Suite 999,9130 Fames Road,IN,Billings,12869,3
+30,Setron,S,Dept #80 ,085 Breakthrough Drive,MO,Hart,64865,3
+14,The Final Frontier,S,Suite 999,528 Curabitur Road,MO,Biddeford,39683,3
+3,YuliChem,C,Suite 999,6440 Amet Street,KY,Laguna Woods,53141,3
+13,Zena Machines,S,Suite 999,1277 Hendrerit Avenue,WA,San Juan,98250,3

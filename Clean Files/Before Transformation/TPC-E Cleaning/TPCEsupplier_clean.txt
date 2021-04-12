@@ -1,0 +1,11 @@
+NAME,ADDR1,ADDR2,CITY,STATE,SupplierID,ZIP
+Specialty Teleconstructors Incorporated,Attn : Zylina Cox,2161 Chalmers Street,Salinas,CA,1,93905
+Sinclair Broadcast Group Incorporated,Attn : Carla Shelby,6037 Ecuadorian Street,Clinton,MI,2,49236
+Black Hills Corporation,Attn : Edena Gilbert,1618 Greenland Street,Tallahassee,FL,3,32304
+Immunex Corporation,Attn : Elbert Glad,5841 Pervades Drive,Fairfax,VA,4,22035
+Dollar General Corporation,Attn : Antoinette Hickey,3988 Chanced Avenue,S Middleton,PA,5,17007
+First Bancshares Incorporated Mo,Attn : Jensine Lease,11885 Aural Turnpike,Louisville,KY,6,40253
+Afg Industries Incorporated,Attn : Dorothy Polk,5377 Cookbook Circle,Vero Beach,FL,7,32967
+American General Ventures Incorporated,Attn : Kimberly Yarborough,1616 Goggles Drive,Sterling,KS,8,67579
+Fedders Corporation,Attn : Virgil Hubert,7844 Carelessly Drive,Overlook,WA,9,98366
+Saurer Gruppe Holding Ag,Attn : Pearce Valdez,3727 Elms Drive,South Saint Paul,MN,10,55077
